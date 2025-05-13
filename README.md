@@ -49,7 +49,8 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)
@@ -77,25 +78,25 @@ I'm a passionate Full Stack Developer with expertise in building modern web appl
 A full-stack MERN application for single restaurant food delivery with user authentication, order tracking, and payment integration.
 
 **Technologies:** React, Node.js, Express, MongoDB, Stripe/Razorpay  
-**[View Repository](https://github.com/YourUsername/food-delivery-app)**
+**[View Demo][https://armk-foods-frontend.onrender.com/]**
 
 ### 🛒 eCommerce Platform
 A comprehensive online shopping platform with product catalog, shopping cart, and secure checkout process.
 
 **Technologies:** MERN Stack, Redux, Razorpay, PayPal  
-**[View Repository](https://github.com/YourUsername/ecommerce-project)**
+**[View Demo][https://github.com/YourUsername/ecommerce-project](https://armk-e-comm-fe.vercel.app/)**
 
 ### 💬 Real-time Chat Application
 A modern messaging platform with real-time communication and notification system.
 
 **Technologies:** React, Node.js, Socket.IO, MongoDB  
-**[View Repository](https://github.com/YourUsername/chat-app)**
+**[View Demo](#)**
 
 ### 📊 Grocery Store Stock Management
 An admin-focused inventory management system for tracking stock and generating customer bills.
 
 **Technologies:** MERN Stack, Chart.js  
-**[View Repository](https://github.com/YourUsername/grocery-stock-app)**
+**[View Demo](#)**
 
 ## GitHub Statistics
 
