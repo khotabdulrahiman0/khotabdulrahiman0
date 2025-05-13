@@ -111,15 +111,24 @@ An admin-focused inventory management system for tracking stock and generating c
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khotabdulrahiman0&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-## Connect With Me
+## 📬 Let's Connect 
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-iabdulrahiman.vercel.app-4F46E5?style=for-the-badge)](https://iabdulrahiman.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-khotabdulrahiman07@gmail.com-EA4335?style=for-the-badge)](mailto:khotabdulrahiman07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/your-linkedin)
-
+  <a href="https://iabdulrahiman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:khotabdulrahiman07@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/khotabdulrahiman0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </div>
 
 ---
@@ -127,7 +136,11 @@ An admin-focused inventory management system for tracking stock and generating c
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=khotabdulrahiman0&color=6366F1&style=for-the-badge" alt="Profile Views" />
   
-  <p align="center">
-    <i>"The best way to learn is by building."</i>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=600&height=60&lines=%22The+best+way+to+learn+is+by+building.%22" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
