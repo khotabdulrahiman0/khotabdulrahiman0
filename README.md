@@ -84,7 +84,7 @@ A full-stack MERN application for single restaurant food delivery with user auth
 A comprehensive online shopping platform with product catalog, shopping cart, and secure checkout process.
 
 **Technologies:** MERN Stack, Redux, Razorpay, PayPal  
-**[View Demo][https://github.com/YourUsername/ecommerce-project](https://armk-e-comm-fe.vercel.app/)**
+**[View Demo](https://armk-e-comm-fe.vercel.app/)**
 
 ### 💬 Real-time Chat Application
 A modern messaging platform with real-time communication and notification system.
